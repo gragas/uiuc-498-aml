@@ -1,2 +1,6 @@
-# uiuc-498-aml
-My solutions for UIUC's CS 498 Applied Machine Learning course.
+# UIUC's CS 498: Applied Machine Learning
+This repository solutions for UIUC's CS 498 Applied Machine Learning course.
+
+I don't know if my professor wants his textbook to be public or private, so I'm not going to post any parts of it here. I'm also not going to give this repo a license for the same reason.
+
+If you want me to take this down, instead of filing a DMCA, kindly email me at tom at bytebros dot co. Thank you.
